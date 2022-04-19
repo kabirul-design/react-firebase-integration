@@ -1,0 +1,21 @@
+
+.header{
+    background-color: black;
+    height: 50px;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.header h2{
+    color: goldenrod;
+    padding-left: 30px;
+}
+.header a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: goldenrod;
+    font-size: 18px;
+    line-height: 30px;
+    
+}
